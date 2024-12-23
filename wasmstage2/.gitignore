@@ -1,0 +1,4 @@
+node_modules
+*.o
+wasmstage2-native.txt
+wasmstage2.wasm
