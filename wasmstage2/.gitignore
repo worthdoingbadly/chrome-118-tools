@@ -1,4 +1,5 @@
 node_modules
 *.o
 wasmstage2-native.txt
+wasmstage2-native.mjs
 wasmstage2.wasm
